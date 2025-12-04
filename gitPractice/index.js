@@ -2,3 +2,4 @@
  console.log("Day 2 Practice")
  console.log("Edited on Github")
 console.log("This is a feature branch test!")
+console.log("Feature :Dashboard added")
