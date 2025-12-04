@@ -4,4 +4,6 @@
 console.log("This is a feature branch test!")
 console.log("Feature: Login system added");
 console.log("This line will conflict - edited in main");
+console.log("Main branch conflicting line");
+
 
