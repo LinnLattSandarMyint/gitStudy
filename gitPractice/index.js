@@ -2,3 +2,4 @@
  console.log("Day 2 Practice")
  console.log("Edited on Github")
  console.log("Exercise 1:Push to Github")
+ console.log("Feature branch exercise line 1")
