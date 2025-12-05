@@ -5,4 +5,5 @@ console.log("This is a feature branch test!")
 console.log("Feature: Login system added");
 console.log("This line will conflict - edited in main");
 console.log("Resolved conflict line");
+console.log("Main change for AUTH conflict");
 
